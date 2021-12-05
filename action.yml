@@ -1,0 +1,9 @@
+name: "Ping Alpine Action"
+author: "nclsbayona"
+description: "Ping an specific website with a max hop"
+branding:
+  icon: user-check
+  color: black
+runs:
+  using: "docker"
+  image: "Dockerfile"
