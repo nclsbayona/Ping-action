@@ -5,5 +5,5 @@
 <h2 id="environment">Environment</h2>
 <ul>
 <li>PING_URL - <strong>Required</strong>. The URL to ping.</li>
-<li>HOP_MAX - <strong>Optional</strong>. The max hops, by default is <i>4</i></li>
+<li>MAX_TIME - <strong>Optional</strong>. The max time in seconds, by default is <i>4</i></li>
 </ul>
