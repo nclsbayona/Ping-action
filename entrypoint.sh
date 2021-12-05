@@ -1,3 +1,3 @@
 #!/bin/sh
 set -u
-ping -m ${MAX_TIME} ${PING_URL}
+ping -t ${MAX_TIME} ${PING_URL}
