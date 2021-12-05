@@ -1,3 +1,3 @@
 #!/bin/sh
 set -u
-ping -c ${HOP_MAX} ${PING_URL}
+ping -m ${MAX_TIME} ${PING_URL}
