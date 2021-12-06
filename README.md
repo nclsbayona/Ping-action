@@ -5,5 +5,5 @@
 <h2 id="environment">Environment</h2>
 <ul>
 <li>PING_URL - <strong>Required</strong>. The URL to ping.</li>
-<li>TTL - <strong>Optional</strong>. The max number of hops (Time to Live (TTL)), by default is <i>4</i></li>
+<li>COUNT - <strong>Optional</strong>. The number of packets sent, by default is <i>4</i></li>
 </ul>
